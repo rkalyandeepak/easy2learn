@@ -1,0 +1,337 @@
+pricingData = {
+	"class": {
+		"class5":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		},
+		"class6":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		},
+		"class7":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		},
+		"class8":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		},
+		"class9":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		},
+		"class10":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		},
+		"class11":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		},
+		"class12":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		},
+		"class12+":{
+			"pricing": {
+				"master": {
+					"price":"12000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"advanced": {
+					"price":"24000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"ultimate": {
+					"price":"36000",
+					"learn": true,
+					"tests": true,
+					"doubts": true
+				},
+				"custom": {
+					"price":0,
+					"learn": {
+						"checkbox": false,
+						"p":12000
+					},
+					"tests": {
+						"checkbox": true,
+						"p":12000
+					},
+					"doubts": {
+						"checkbox": false,
+						"p":12000
+					}
+				},
+			}
+		}
+	}
+}
